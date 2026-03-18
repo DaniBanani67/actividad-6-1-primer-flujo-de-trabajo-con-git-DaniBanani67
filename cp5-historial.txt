@@ -1,0 +1,7 @@
+¿Cuántos commits tienes ahora en el repositorio?
+
+2
+
+¿Qué diferencia hay entre el primer y el segundo commit?
+
+El primero crea el archivo inicial, el segundo añade contenido y lo completa.

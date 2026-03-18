@@ -1,0 +1,12 @@
+Cambios a ser confirmados:
+  (usa "git restore --staged <archivo>..." para sacar del área de stage)
+        nuevos archivos: cp2-estado-inicial.txt
+
+Diferencia entre untracked y staging:
+
+Untracked: Git no sigue el archivo.
+Staging: El archivo está preparado para incluirse en el próximo commit.
+
+Comando utilizado:
+
+git add cp2-estado-inicial.txt

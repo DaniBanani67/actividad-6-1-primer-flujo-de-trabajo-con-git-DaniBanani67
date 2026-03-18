@@ -1,0 +1,9 @@
+  git status
+En la rama main
+Archivos sin seguimiento:
+  (usa "git add <archivo>..." para incluirlo a lo que será confirmado)
+        "notas-git.md\303\247"
+
+no hay nada agregado al commit pero hay archivos sin seguimiento presentes (usa "git add" para hacerles seguimiento)
+
+Un archivo "untracked" es un archivo nuevo que Git aún no está siguiendo ni ha incluido en el repositorio.

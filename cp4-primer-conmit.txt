@@ -1,0 +1,12 @@
+dani@dani-VirtualBox:~/Documentos/dev/actividad-6-1-flujo-git$ git status
+
+En la rama main
+nada para hacer commit, el árbol de trabajo está limpio
+
+dani@dani-VirtualBox:~/Documentos/dev/actividad-6-1-flujo-git$ git log --oneline
+
+421cc4d (HEAD -> main) Añade cp3 staging
+946c28a Añade archivo de notas inicial sobre Git
+ebef115 Añade archivo inicial
+
+Los mensajes claros permiten entender rápidamente qué cambios se hicieron sin tener que revisar el código.
